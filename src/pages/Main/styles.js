@@ -7,6 +7,6 @@ export const Title = styled.h1`
 
   small {
     font-size: 14px;
-    color: #333;
+    color: #eee;
   }
 `;
